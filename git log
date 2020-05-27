@@ -1,0 +1,36 @@
+[33mcommit e22062dd2c1aeb4a6917652b1b97f7df2c19ee30[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: siann <simeontolentinojr@yahoo.com>
+Date:   Fri May 22 00:03:27 2020 +0800
+
+    Level 5 Passport.js add, cookies and sessions
+
+[33mcommit 7c5a2abcfd167bd1e12027cfd079a73bda396d1d[m
+Author: siann <simeontolentinojr@yahoo.com>
+Date:   Wed May 20 22:47:17 2020 +0800
+
+    Level 4 Salting and Bcrypt Hash
+
+[33mcommit 72872ebf435d60ab70272e8a7005b5f5d809398b[m
+Merge: 6ef0382 b311848
+Author: siann <simeontolentinojr@yahoo.com>
+Date:   Wed May 20 21:56:57 2020 +0800
+
+    Merge branch 'master' of https://github.com/siann28/Authentication-sample
+
+[33mcommit 6ef03829a0430c63ad13c1907c429ece73030ee3[m
+Author: siann <simeontolentinojr@yahoo.com>
+Date:   Wed May 20 21:54:57 2020 +0800
+
+    Level 3 - Hashing
+
+[33mcommit b311848390d70072ffeae9dee2bb10ba0bf158cc[m
+Author: siann28 <64450907+siann28@users.noreply.github.com>
+Date:   Wed May 20 01:32:09 2020 +0800
+
+    Create README.md
+
+[33mcommit 6d924fdb5ac21c7cbe454afb6c1178f89642d897[m
+Author: siann <simeontolentinojr@yahoo.com>
+Date:   Wed May 20 01:28:53 2020 +0800
+
+    Level 1 and 2 Username, Password and Encryption. Authentication
